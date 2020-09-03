@@ -1,0 +1,2 @@
+git init: para inicializar un repositorio local.\
+git add: para agregar temporalmente en una base de dato local.

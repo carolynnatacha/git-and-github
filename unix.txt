@@ -1,0 +1,23 @@
+cd: cambiar de directorio.
+cd .. : cambiarte para el directorio padre. 
+cd . : cambiarte para el directorio actual.
+../: se puede combinar con multiples puntos para ir a otra directorios.
+cp: para copiar archivos y directorios.
+ls: muestra todos los archivos o directorios.
+ls -a: muestra todos los archivos y directorios incluyendo los ocultos. 
+clear: limpiar el terminal.
+pwd: mostrar donde estas.
+touch: para crear archivos. 
+mkdir: para crear directorios.
+mv: para mover directorios y archivos.
+cat: para mostrar contenido de archivo.
+echo: para imprimir texto.
+rm: para remover archivos o directorios.
+rm -rf: remover todo forzosamente archivos o directorios.
+
+
+
+Crear un album familiar donde incluya la familia de Salomon Anton 
+-tener que incluir todos los hijos de Salomon
+-Tener que incluir tres nietos minimo de Salomon
+-Si tienes binietos debes incluir por lo menos uno 
