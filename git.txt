@@ -3,3 +3,17 @@ git add: para agregar temporalmente en una base de dato local.
 git status: para ver el estado de git.
 git commit -m: guarda los cambios a la base de datos de git.
 git log: este muestra los commit que se han hecho en el proyecto.
+git remote: te muestra los remote que estan agregados a este proyecto.
+git push: envia los commit al repositorio en el internet.
+
+git init 
+git add .
+git commit -m
+git push
+
+Crear 4 proyectos.
+
+Que es git branch?
+como funciona el remote y que es?
+como funciona github? y que es?
+la diferencia entre git y hub?
